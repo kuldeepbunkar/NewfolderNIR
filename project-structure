@@ -1,0 +1,13 @@
+src/
+  ├── components/
+  │   ├── common/
+  │   │   ├── Header.js
+  │   │   ├── Footer.js
+  │   │   └── Navbar.js
+  │   ├── home/
+  │   ├── properties/
+  │   ├── services/
+  │   └── auth/
+  ├── pages/
+  ├── assets/
+  └── utils/ 

@@ -1,0 +1,3 @@
+npx create-react-app next-innovation-realty
+cd next-innovation-realty
+npm install react-router-dom axios styled-components @material-ui/core @material-ui/icons 
